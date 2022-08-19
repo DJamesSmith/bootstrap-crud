@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "Spriha Smith",
+      "email": "spriha@gmail.com",
+      "phone": "8677894562",
+      "password": "sdghsdfsdf",
+      "city": "Jaipur",
+      "state": "West Bengal",
+      "dob": "03-12-1993",
+      "id": 1
+    },
+    {
+      "name": "Leonard Joseph Smith",
+      "email": "leo@gmail.com",
+      "phone": "7889632145",
+      "password": "874bhbsdfj",
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "dob": "21-02-1961",
+      "id": 3
+    },
+    {
+      "name": "James",
+      "email": "dion@gmail.com",
+      "phone": "9382857101",
+      "password": "asdfhgsghdf",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "dob": "2022-08-12",
+      "id": 4
+    },
+    {
+      "name": "Alexander",
+      "email": "alexander@gmail.com",
+      "phone": "9382857101",
+      "password": "dasdadsasdasd",
+      "city": "Kolkata",
+      "state": "WestBengal",
+      "dob": "2022-08-02",
+      "id": 5
+    },
+    {
+      "name": "Isaac",
+      "email": "isaac@gmail.com",
+      "phone": "9382857101",
+      "password": "tretertsdsd",
+      "city": "Kolkata",
+      "state": "Kerala",
+      "dob": "2022-09-01",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Dion",
+      "email": "dion@gmail.com",
+      "phone": "9382857101",
+      "password": "dofpiopifposfiopsf",
+      "city": "Kolkata",
+      "state": "Punjab",
+      "dob": "1111-02-12",
+      "id": 1
+    }
+  ]
+}
